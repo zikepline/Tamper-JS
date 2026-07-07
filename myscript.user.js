@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CampaignsParser
+// @name         Tamper-JS
 // @namespace    https://github.com/zikepline
 // @version      1.1.0
 // @description  Mass parser for campaigns. Open https://admin.convertagain.com/?tm_ca_panel=2
@@ -15,8 +15,8 @@
 //
 // @require      https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js
 //
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/CampaignsParser/main/CampaignsParser.user.js
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/CampaignsParser/main/CampaignsParser.user.js
+// @downloadURL  https://raw.githubusercontent.com/zikepline/Tamper-JS/main/myscript.user.js
+// @updateURL    https://raw.githubusercontent.com/zikepline/Tamper-JS/main/myscript.user.js
 // ==/UserScript==
 
 (function () {
